@@ -19,7 +19,7 @@ Independent systems engineer building a closed-loop resilience stack: **wildfire
 ## Links
 - Research: https://iansatomcardle.substack.com/
 - Promethian Assembly (project): https://promethianassembly.substack.com/
-- Verification Index: https://iansatomcardle.substack.com/p/verification-index
+- Verification Index:[ https://iansatomcardle.substack.com/p/verification-index](https://open.substack.com/pub/iansatomcardle/p/verification-index-this-page-is-the?r=62n8kk&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 - LinkedIn: https://www.linkedin.com/in/ian-sato-mcardle/
 
 ## Contact
